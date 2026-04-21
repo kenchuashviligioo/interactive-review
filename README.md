@@ -1,1 +1,1 @@
-[interactive review] [assets/desktop.svg]
+![Desktop View](assets/desktop.svg)
